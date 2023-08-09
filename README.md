@@ -1,2 +1,3 @@
 # desafio2-dio-ifood-sistema-bancario
-Aperfeiçoamento do sistema bancário realizado em  desafio-sistema-bancario-python (https://github.com/qgaia/desafio-sistema-bancario-python), dessa vez utilizando funções
+Aperfeiçoamento do sistema bancário realizado em  desafio-sistema-bancario-python (https://github.com/qgaia/desafio-sistema-bancario-python), dessa vez utilizando funções.
+Neste desafio, temos a oportunidade de otimizar o Sistema Bancário previamente desenvolvido com o uso de funções Python. O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas. Temos a chance de refatorar o código existente, dividindo-o em funções reutilizáveis, facilitando a manutenção e o entendimento do sistema como um todo. Prepare-se para aplicar conceitos avançados de programação e demonstrar sua habilidade em criar soluções mais elegantes e eficientes utilizando Python.
